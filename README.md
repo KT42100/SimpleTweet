@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/dokmg9P' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walk through tweet.gif'/>
 
 GIF created with [ScreenToGif](https://www.screentogif.com/).
 
